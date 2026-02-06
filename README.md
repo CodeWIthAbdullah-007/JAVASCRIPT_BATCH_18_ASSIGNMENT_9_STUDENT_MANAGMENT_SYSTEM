@@ -25,7 +25,7 @@ A responsive Student Management System (SMS) built with HTML, CSS, and JavaScrip
 
 1. Clone the repository:
    ```bash
-      
+      https://github.com/CodeWIthAbdullah-007/JAVASCRIPT_BATCH_18_ASSIGNMENT_9_STUDENT_MANAGMENT_SYSTEM.git
 
 This is a **ready-to-use README.md**.  
 
